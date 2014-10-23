@@ -6,3 +6,4 @@ Members are welcome to join and we will be hacking on ideas that we have propose
 
 If you want to submit a proposal, please create a new issue ticket and let everybody know in the chat room
 
+![Mind Blowing](http://www.reactiongifs.com/r/2013/10/adventure-time-mind-blown.gif)
