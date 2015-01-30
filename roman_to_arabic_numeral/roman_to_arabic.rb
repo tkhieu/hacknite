@@ -1,4 +1,4 @@
-class RomanToArabic
+class RomanNumeral
 
   # code code code
   # what? why?

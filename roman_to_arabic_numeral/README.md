@@ -16,4 +16,4 @@ Làm sao để file spec pass hết là đc
 
 ## Phần 2 - chuyển từ Ả Rập sang số La Mã
 
-Phần này bạn phải tự viết spec cho class `ArabicToRoman`, và nhớ áp dụng TDD để giải
+Phần này bạn phải tự viết spec và class (sáng tạo nhé), và nhớ áp dụng TDD để giải
