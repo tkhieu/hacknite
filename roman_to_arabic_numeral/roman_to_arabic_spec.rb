@@ -2,8 +2,7 @@ require_relative './roman_to_arabic'
 require 'minitest/autorun'
 
 describe RomanNumeral do
-
-  it 'converts Roman numerals to Arabic numerals' do
+  it 'converts Arabic numerals to Roman numerals' do
     RomanNumeral.new('I').to_arabic.must_equal(1)
     RomanNumeral.new('II').to_arabic.must_equal(2)
     RomanNumeral.new('III').to_arabic.must_equal(3)
