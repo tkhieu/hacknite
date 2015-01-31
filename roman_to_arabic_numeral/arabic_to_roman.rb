@@ -26,9 +26,7 @@ class ArabicNumeral
       i = @a_number/key
       @a_number = @a_number%key
       if(i > 0)
-        (1..i).each do
-          @string += value
-        end
+        @string += value*i
       end
     end
     @string
