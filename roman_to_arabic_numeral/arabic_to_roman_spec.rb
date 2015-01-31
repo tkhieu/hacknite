@@ -1,4 +1,4 @@
-require_relative './roman_to_roman'
+require_relative './arabic_to_roman'
 require 'minitest/autorun'
 
 describe Numeral do
